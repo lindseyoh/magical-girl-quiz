@@ -1,3 +1,7 @@
+# Messing around to learn React, a small side proj I took on for fun
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
